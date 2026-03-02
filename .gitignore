@@ -1,17 +1,7 @@
-node_modules/
-.env
-.env.local
-.env.production
-uploads/temp/
-uploads/images/*.jpg
-uploads/images/*.png
-uploads/images/*.webp
-uploads/images/thumbnails/
-!uploads/images/.gitkeep
-!uploads/images/thumbnails/.gitkeep
-*.log
-npm-debug.log*
 .DS_Store
-coverage/
-dist/
-_archive/
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
